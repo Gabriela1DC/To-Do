@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+// Aplicando fontes personalizada.
+
+body,
+input,
+button {
+  font-size: 16px;
+  font-family: "Poppins", "Roboto", sans-serif;
+
+  --webkit-font-smoothing: antialiased;
+}
